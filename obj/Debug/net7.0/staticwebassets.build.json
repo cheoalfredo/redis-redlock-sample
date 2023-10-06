@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xanMeBWeqSzdedxSmDuibQcGx75uiL9nJnHwAxeoKXU=",
+  "Source": "redislock",
+  "BasePath": "_content/redislock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
