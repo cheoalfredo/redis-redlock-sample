@@ -2,7 +2,7 @@ using RedLockNet;
 using RedLockNet.SERedis;
 using RedLockNet.SERedis.Configuration;
 using StackExchange.Redis;
-
+// startup everything
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
